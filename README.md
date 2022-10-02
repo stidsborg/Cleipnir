@@ -1,4 +1,5 @@
 # Cleipnir
-This is a an overview repository for the different Cleipnir subprojects.
-* [Framework supporting Persistent Programming in .NET](https://github.com/stidsborg/Cleipnir.PersistentProgramming) 
-* [Resilient Functions Framework (simple Sagas) - Lambdas that survive process crashes and restarts](https://github.com/stidsborg/Cleipnir.ResilientFunctions) 
+Resilient Functions is a simple and intuitive .NET framework for managing the execution of functions which must complete in their entirety despite: failures, restarts, deployments, data migrations etc.
+
+Repository can be found here:
+https://github.com/stidsborg/Cleipnir.ResilientFunctions
